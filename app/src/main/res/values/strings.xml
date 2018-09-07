@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigationView</string>
+    <string name="home_page">首页</string>
+    <string name="new_car">新车</string>
+    <string name="used_car">二手车</string>
+    <string name="service">车主服务</string>
+    <string name="my">我的</string>
+</resources>
